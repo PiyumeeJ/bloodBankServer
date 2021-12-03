@@ -20,7 +20,7 @@ $ Install Git version 2.18 or above installed as a code editor.
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/PiyumeeJ/blood-bank-admin-view.git
+$ git clone https://github.com/PiyumeeJ/bloodBankServer.git
 
 # go into app's directory
 $ cd my-project
@@ -46,4 +46,4 @@ $ mvn clean install
   ```     	
 	
 ## Author 
-* **PiyumeeJ** - [blood-bank-donar-view](https://github.com/PiyumeeJ/blood-bank-donar-view.git) 
+* **PiyumeeJ** - [bloodBankServer](https://github.com/PiyumeeJ/bloodBankServer.git) 
