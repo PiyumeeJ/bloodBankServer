@@ -5,8 +5,6 @@ These instructions will get you a copy of the project up and running on local ma
 
 ## Installing
 
-### A step by step series of examples to get the test environment running
-
 1. Software Installation
   
  ``` 
